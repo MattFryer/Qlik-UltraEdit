@@ -1,0 +1,115 @@
+/L1"QlikView" SQL_LANG Nocase Noquote Line Comment = // Block Comment On = /* Block Comment Off = */ Block Comment On Alt = Block Comment Off Alt = Escape Char = \ File Extensions = QVS
+/Delimiters = ! "	$%&'()*+,-/:;<=>?@[\]^{|}~
+/TGBegin "Subroutines"
+/TGFindStr = "%[ ^t]++sub[ ^t]+^([a-z0-9.]+^)"
+/TGEnd
+/TGBegin "Load Statements"
+/TGFindStr = "%[ ^t]++^([a-z0-9._$()^[^]]+^):[ ^p^t]+LOAD[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^([a-z0-9._$()^[^]]+^):[ ^p^t]+NOCONCATENATE[ ^p^t]+LOAD[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^(CONCATENATE[ ^p^t]+([a-z0-9._$()^[^]]+)^)[ ^p^t]+load[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^(JOIN[ ^p^t]+([a-z0-9._$()^[^]]+)^)[ ^p^t]+load[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^(LEFT[ ^p^t]+JOIN[ ^p^t]+([a-z0-9._$()^[^]]+)^)[ ^p^t]+load[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^(RIGHT[ ^p^t]+JOIN[ ^p^t]+([a-z0-9._$()^[^]]+)^)[ ^p^t]+load[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^(INNER[ ^p^t]+JOIN[ ^p^t]+([a-z0-9._$()^[^]]+)^)[ ^p^t]+load[ ^p^t]+"
+/TGFindStr = "%[ ^t]++^(OUTER[ ^p^t]+JOIN[ ^p^t]+([a-z0-9._$()^[^]]+)^)[ ^p^t]+load[ ^p^t]+"
+/TGEnd
+/Colors = 0,32768,32768,128,0,
+/Colors Back = 16777215,16777215,16777215,16777215,16777215,
+/Colors Auto Back = 1,1,1,1,1,
+/Font Style = 0,0,0,0,0,
+/Open Brace Strings = "(" "[" "{" "<"
+/Close Brace Strings = ")" "]" "}" ">"
+/Open Fold Strings = "Sub" "If" "ElseIf" "Else" "For" "Do" "Switch"
+/Close Fold Strings = "End Sub" "Endsub" "End If" "EndIf" "ElseIf" "Else" "Next" "End Switch"
+/Ignore Fold Strings = "Exit Sub"
+/Marker Characters = "[]"
+/C1"QlikView Functions" Colors = 16711680 Colors Back = 0 Colors Auto Back = 1 Font Style = 0
+Acos Addmonths Addyears Age Alt Applycodepage Applymap Argb Asin Atan Atan2 Attribute Author Autonumber
+Autonumberhash128 Autonumberhash256 Avg
+Bitcount Black Blackandschole Blue Brown
+Capitalize Ceil Chi2test_chi2 Chi2test_df Chi2test_p Chidist Chiinv Chr Class Clientplatform Color
+Colormaphue Colormapjet Colormix1 Colormix2 Combin Computername Concat Connectstring Converttolocaltime
+Correl Cos Cosh Count Cyan
+Darkgray Date Date# Day Dayend Daylightsaving Dayname Daynumberofquarter Daynumberofyear Daystart Div
+DocumentName DocumentPath DocumentTitle Dual
+E Evaluate Even Exists Exp
+Fabs Fact False Fdist FieldIndex FieldName FieldNumber FieldValue FieldValueCount FileBaseName FileDir
+FileExtension FileName FilePath FileSize FileTime FindOneOf Finv FirstSortedValue FirstValue FirstWorkDate
+Floor Fmod Frac Fractile Fv
+GetExtendedProperty GetFolderPath GetObjectField GetRegistryString GMT Green
+Hash128 Hash160 Hash256 Hour HSL
+if InDay InDayToTime Index InLunarWeek InLunarWeekToDate InMonth InMonths InMonthsToDate InMonthToDate
+Input InputAvg InputSum InQuarter InQuarterToDate Interval Interval# InWeek InWeekToDate InYear
+InYearToDate IRR IsNull IsNum IsPartialReload IsText IterNo
+KeepChar Kurtosis
+LastValue LastWorkDate Len LightBlue LightCyan LightGray LightGreen LightMagenta LightRed LINEST_B
+LINEST_DF LINEST_F LINEST_M LINEST_R2 LINEST_SEB LINEST_SEM LINEST_SEY LINEST_SSREG LINEST_SSRESID
+LocalTime log log10 Lookup Lower LTrim LunarWeekEnd LunarWeekName LunarWeekStart
+Magenta MakeDate MakeTime MakeWeekDate MapSubString Match Max MaxString Median Mid Min MinString Minute
+MissingCount MixMatch Mod Mode Money Money# Month MonthEnd MonthName MonthsEnd MonthsName MonthsStart
+MonthStart MsgBox
+NetWorkDays NoOfFields NoOfReports NoOfRows NoOfTables NORMDIST NORMINV Now nPer NPV Null NullCount Num
+Num# NumAvg NumCount NumericCount NumMax NumMin NumSum
+Odd Only Ord OSUser
+Peek Permut Pi Pick Pmt pow Previous PurgeChar PV
+QlikTechBlue QlikTechGray QlikViewVersion QuarterEnd QuarterName QuarterStart QvdCreateTime QvdFieldName
+QvdNoOfFields QvdNoOfRecords QvdTableName QVUser
+Rand RangeAvg RangeCorrel RangeCount RangeFractile RangeIRR RangeKurtosis RangeMax RangeMaxString RangeMin
+RangeMinString RangeMissingCount RangeMode RangeNPV RangeNullCount RangeNumericCount RangeOnly RangeSkew
+RangeStdev RangeSum RangeTextCount RangeXIRR RangeXNPV Rate RecNo Red ReloadTime Repeat Replace
+ReportComment ReportId ReportName ReportNumber RGB Right Round RowNo RTrim
+Second SetDateYear SetDateYearMonth Sign sin sinh Skew sqr sqrt Stdev Sterr STEYX SubField SubStringCount
+Sum SysColor
+TableName TableNumber tan tanh TDIST Text TextBetween TextCount Time Time# Timestamp Timestamp# TimeZone
+TINV Today Trim True TTest1_conf TTest1_df TTest1_dif TTest1_lower TTest1_sig TTest1_sterr TTest1_t
+TTest1_upper TTest1w_conf TTest1w_df TTest1w_dif TTest1w_lower TTest1w_sig TTest1w_sterr TTest1w_t
+TTest1w_upper TTest_conf TTest_df TTest_dif TTest_lower TTest_sig TTest_sterr TTest_t TTest_upper
+TTestw_conf TTestw_df TTestw_dif TTestw_lower TTestw_sig TTestw_sterr TTestw_t TTestw_upper
+Upper UTC
+Week WeekDay WeekEnd WeekName WeekStart WeekYear White WildMatch WildMatch5
+XIRR XNPV
+Year Year2Date YearEnd YearName YearStart YearToDate Yellow
+ZTest_conf ZTest_dif ZTest_lower ZTest_sig ZTest_sterr ZTest_upper ZTest_z ZTestw_conf ZTestw_dif
+ZTestw_lower ZTestw_sig ZTestw_sterr ZTestw_upper ZTestw_z
+/C2"QVACB Subs" Colors = 16711680 Colors Back = 0 Colors Auto Back = 1 Font Style = 1
+QVACB.CalendarFromDates QVACB.CalendarFromField QVACB.CreateLogFile QVACB.EmptyQVD
+QVACB.IntervalMatchClean QVACB.LoadLogFiles QVACB.LogConnection QVACB.LogFilePurge QVACB.LogQVACBError
+QVACB.LogQVD QVACB.LogQVErrors QVACB.LogString QVACB.LogSubCall QVACB.LogSystemVariables QVACB.LogTables
+QVACB.LookForNewVersion QVACB.PatternDropFields QVACB.PatternDropTables
+QVACB.SetAdditionalEnvironmentVariables QVACB.SetEnvironmentVariables QVACB.SetVariablesFromFile
+QVACB.StoreMonthlyQVD QVACB.TidyUp
+/C3"Reserved Words" Colors = 16711680 Colors Back = 0 Colors Auto Back = 1 Font Style = 1
+Add Alias And As Autogenerate
+Binary Buffer Bundle By
+Call Case Comment Concatenate Connect Crosstable
+Default Directory Disconnect Do Drop
+Each Else Elseif End Endif Endsub Endswitch Execute Exit
+field First For Force From
+Generic Group
+Hierarchy HierarchyBelongsTo
+If Image_size Info Inline Inner Inputfield Intervalmatch Into
+Join
+Keep
+Left Let Load Loop Loosen
+Map Mapping
+Next Noconcatenate Not NullAsNull NullAsValue
+Or Outer
+Qualify
+Rem Rename Replace Resident Right
+Sample Script Section Select Semantic Set Sleep SQL SQLColumns SQLTables SQLTypes Star Step Store Sub
+Switch
+Table Tag Then To Trace
+Unless Unmap Unqualify Untag Using
+When Where While
+/C4"Field Bracing" Colors = 128 Colors Back = 0 Colors Auto Back = 1 Font Style = 0
+[]
+/C5"QlikView Variables" Colors = 8421504 Colors Back = 0 Colors Auto Back = 1 Font Style = 0
+DateFormat DayNames DecimalSep
+HidePrefix HideSuffix
+MoneyDecimalSep MoneyFormat MoneyThousandSep MonthNames
+ThousandSep TimeFormat TimestampFormat
+YearMonthFormat
+/C5"QVACB Variables" Colors = 8421504 Colors Back = 0 Colors Auto Back = 1 Font Style = 0
+QVACB.DateDiff QVACB.Days360 QVACB.Exists.File QVACB.Exists.Table QVACB.InRange QVACB.MonthDiff QVACB.NVL
+QVACB.RollingSum QVACB.v.EnableSubLogging QVACB.v.LookForNewVersion QVACB.v.TimestampInLogFileName
+QVACB.v.UseQVLog QVACB.v.Version
