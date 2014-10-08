@@ -6,7 +6,7 @@ The syntax highlighting that is provided is limited to the capabilities of Ultra
 
 * Highlighting of all current (v11.20) functions
 * Highlighting of all current (v11.20) keywords and statements
-* Highlighting of line comments (//) and block comments (/* */ and REM ;) 
+* Highlighting of line comments (//) and block comments (/* */ and REM ; ) 
 * Folding of code blocks including IF, SWITCH, FOR, DO and SUB statements
 * LOAD statements, QUALIFY statements, STORE statements and subroutines shown in the UltraEdit function list
 * Script templates for commonly used commands and code snippets
