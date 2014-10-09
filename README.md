@@ -20,7 +20,7 @@ Here are the steps to getting it installed and working yourself:
 
 1. It is recommended that you are running the latest version of UltraEdit (v21.30.0 at the time of release). Some previous versions do not support all Wordfile and theme features.
 2. Close all running instances of UltraEdit.
-3. Download the QlikView Wordfile ZIP archive file from https://github.com/MattFryer/QlikView-UltrEdit/archive/master.zip
+3. Download the QlikView Wordfile latest release ZIP archive file from https://github.com/MattFryer/QlikView-UltraEdit/releases/latest
 4. Unpack the files from the archive to a folder on you hard drive.
 5. Copy the "qlikview.uew" file from the folder to the "%UserProfile%\AppData\Roaming\IDMComp\UltraEdit\wordfiles\". Tip: you can copy the path (including the % part) into Windows Explorer address bar. Windows may ask you to provide administrator privileges.
 6. Copy the "qlikview-tpl.xml" file from the folder to the "%UserProfile%\AppData\Roaming\IDMComp\UltraEdit\templates\language\".
@@ -39,7 +39,7 @@ Here are the steps to getting it installed and working yourself:
 If you already have a previous version of the QlikView Wordfile installed you will need to follow these steps to remove it and install the latest version:
 
 1. Close all running instances of UltraEdit.
-2. Download the QlikView Wordfile ZIP archive file from https://github.com/MattFryer/QlikView-UltrEdit/archive/master.zip
+2. Download the QlikView Wordfile latest release ZIP archive file from https://github.com/MattFryer/QlikView-UltraEdit/releases/latest
 3. Unpack the files from the archive to a folder on you hard drive.
 4. Copy the "qlikview.uew" file from the folder to the "%UserProfile%\AppData\Roaming\IDMComp\UltraEdit\wordfiles\" and if prompted, allow it to overwrite any existing version of the file. Tip: you can copy the path (including the % part) into Windows Explorer address bar. Windows may also ask you to provide administrator privileges.
 5. Copy the "qlikview-tpl.xml" file from the folder to the "%UserProfile%\AppData\Roaming\IDMComp\UltraEdit\templates\language\" and if prompted, allow it to overwrite any existing version of the file.
