@@ -46,7 +46,7 @@ If you already have a previous version of the QlikView Wordfile installed you wi
 6. Copy the "QlikView.ue-theme" file from the folder to the "%UserProfile%\AppData\Roaming\IDMComp\UltraEdit\templates\themes\" and if prompted, allow it to overwrite any existing version of the file.
 7. Open UltraEdit and navigate to the menu Advanced -> Configuration...
 8. The Configuration dialog will appear, under the "Navigation" tree on the left hand side, select Editor -> Word Wrap/Tab Settings.
-9. From the "Select extension for settings or default" drop-down select the "qvs" entry. If no "qvs" entry is shown, continue from point 8 of the Installation instructions above.
+9. From the "Select extension for settings or default" drop-down select the "qvs" entry. If no "qvs" entry is shown, continue from point 10 of the Installation instructions above.
 10. Click the "Browse..." button and navigate to the "AutoComplete.txt" file which you unpacked from the ZIP file in step 4 above. Click "Open".
 11. Click "OK" to close the Configuration dialog.
 
