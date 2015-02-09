@@ -49,7 +49,7 @@ Each Else Elseif End Endif Endsub Endswitch Execute Exit
 Field Fields First For Force From
 Generic Group
 Hierarchy HierarchyBelongsTo
-If Image_size Info Inline Inner Inputfield Intervalmatch Into
+If Image_size In Info Inline Inner Inputfield Intervalmatch Into
 Join
 Keep
 Left Let Load Loop Loosen
@@ -74,7 +74,7 @@ Darkgray Date Date# Day Dayend Daylightsaving Dayname Daynumberofquarter Daynumb
 DocumentName DocumentPath DocumentTitle Dual
 E Evaluate Even Exists Exp
 Fabs Fact False Fdist FieldIndex FieldName FieldNumber FieldValue FieldValueCount FileBaseName FileDir
-FileExtension FileName FilePath FileSize FileTime FindOneOf Finv FirstSortedValue FirstValue FirstWorkDate
+FileExtension FileList FileName FilePath FileSize FileTime FindOneOf Finv FirstSortedValue FirstValue FirstWorkDate
 Floor Fmod Frac Fractile Fv
 GetExtendedProperty GetFolderPath GetObjectField GetRegistryString GMT Green
 Hash128 Hash160 Hash256 Hour HSL
