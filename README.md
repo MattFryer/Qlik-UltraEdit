@@ -1,3 +1,9 @@
+[![GitHub version](https://img.shields.io/github/release/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/MattFryer/QlikView-UltraEdit/total.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/issues)
+[![GitHub license](https://img.shields.io/github/license/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/blob/master/LICENSE)
+
 # QlikView Language Definition for UltraEdit
 
 The QlikView Custom Language Definition for UltraEdit gives basic syntax highlighting and auto-completion when working with QlikView script files in UltraEdit.
