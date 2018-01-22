@@ -1,4 +1,4 @@
-#QlikView Language Definition for UltraEdit
+# QlikView Language Definition for UltraEdit
 
 The QlikView Custom Language Definition for UltraEdit gives basic syntax highlighting and auto-completion when working with QlikView script files in UltraEdit.
 
@@ -34,7 +34,7 @@ Here are the steps to getting it installed and working yourself:
 14. Click "OK" to close the Configuration dialog.
 
 
-##Upgrade
+## Upgrade
 
 If you already have a previous version of the QlikView Wordfile installed you will need to follow these steps to remove it and install the latest version:
 
@@ -51,7 +51,7 @@ If you already have a previous version of the QlikView Wordfile installed you wi
 11. Click "OK" to close the Configuration dialog.
 
 
-##How To Use
+## How To Use
 
 If you open a .qvs file, UltraEdit will automatically identify it as a QlikView script file and apply the Wordfile for you. If you are creating a new file or using a different file extension then you'll need to change the language using the menu View -> View as (Highlighted File Type) -> QlikView.
 
@@ -60,6 +60,6 @@ By default, UltraEdit will use the highlighting colours set within the theme you
 A series of templates have been included which allow you to add commonly used commands and script snippets. To insert a template, place the cursor at the position within the script file where you wish to insert the template, then from the menu select Insert -> Individual Templates and then select the template you wish to use. Some templates will prompt you to complete elements of the template. For example, after inserting the "Binary Load" template, UltraEdit will select the area where you need to insert the path to the QVW file. Type (or paste) the path and hit enter to complete the template.
 
 
-##Disclaimer
+## Disclaimer
 
 This Wordfile is provided free of charge, as is, with no warranties or guarantees. Neither Datoniq Limited or QlikViewAddict.com (including any of it's contributors) accept any liability for problems or loss resulting from it's use. 
