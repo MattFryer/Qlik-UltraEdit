@@ -43,20 +43,20 @@
 /C1"Reserved Words" Colors = 16711680 Colors Back = 0 Colors Auto Back = 1 Font Style = 1
 Add Alias And As Autogenerate
 Binary Buffer Bundle By
-Call Case Comment Concatenate Connect Crosstable
-Default Directory Disconnect Distinct Do Drop
+Call Case Comment Concatenate Connect Crosstable CUSTOM
+Default Derive Dimension Direct Directory Disconnect Distinct Do Drop
 Each Else Elseif End Endif Endsub Endswitch Execute Exit
-Field Fields First For Force From
+Field Fields First FlushLog For Force From
 Generic Group
 Hierarchy HierarchyBelongsTo
 If Image_size In Info Inline Inner Inputfield Intervalmatch Into
 Join
 Keep
-Left Let Load Loop Loosen
-Map Mapping
-Next Noconcatenate Not NullAsNull NullAsValue
-Or Outer
-Qualify
+LIB Left Let Load Loop Loosen
+Map Mapping Measure
+Native Next Noconcatenate Not NullAsNull NullAsValue
+ODBC OLEDB Or Outer
+Query Qualify
 Rename Replace Resident Right
 Sample Script Section Select Semantic Set Sleep SQL SQLColumns SQLTables SQLTypes Star Step Store Sub
 Switch

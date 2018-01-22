@@ -57,6 +57,7 @@ cos
 cosh
 count
 CROSSTABLE
+CUSTOM
 cyan
 darkgray
 date
@@ -68,6 +69,9 @@ dayname
 daynumberofquarter
 daynumberofyear
 daystart
+DERIVE
+DIMENSION
+DIRECT
 DIRECTORY
 DISCONNECT
 div
@@ -114,6 +118,7 @@ FirstSortedValue
 FirstValue
 FirstWorkDate
 floor
+FLUSHLOG
 fmod
 FOR
 FORCE
@@ -180,6 +185,7 @@ left
 LEFT
 len
 LET
+LIB
 LightBlue
 LightCyan
 LightGray
@@ -236,6 +242,7 @@ MonthsName
 MonthsStart
 MonthStart
 MsgBox
+NATIVE
 NetWorkDays
 NOCONCATENATE
 NoOfFields
@@ -260,9 +267,11 @@ NumericCount
 NumMax
 NumMin
 NumSum
+ODBC
 odd
 only
 ONLY
+OLEDB
 OR
 ord
 OSUser
@@ -283,6 +292,7 @@ QUALIFY
 QuarterEnd
 QuarterName
 QuarterStart
+QUERY
 QvdCreateTime
 QvdFieldName
 QvdNoOfFields
