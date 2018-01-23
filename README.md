@@ -1,4 +1,5 @@
 [![GitHub version](https://img.shields.io/github/release/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/MattFryer/QlikView-UltraEdit/total.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
 [![GitHub stars](https://img.shields.io/github/stars/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/issues)
