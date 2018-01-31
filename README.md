@@ -1,9 +1,9 @@
-[![GitHub version](https://img.shields.io/github/release/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
-[![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
-[![GitHub download](https://img.shields.io/github/downloads/MattFryer/QlikView-UltraEdit/total.svg)](https://github.com/MattFryer/QlikView-UltraEdit/releases/latest)
-[![GitHub stars](https://img.shields.io/github/stars/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/issues)
-[![GitHub license](https://img.shields.io/github/license/MattFryer/QlikView-UltraEdit.svg)](https://github.com/MattFryer/QlikView-UltraEdit/blob/master/LICENSE)
+[![GitHub version](https://img.shields.io/github/release/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/MattFryer/Qlik-UltraEdit/total.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues-raw/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/issues)
+[![GitHub license](https://img.shields.io/github/license/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/blob/master/LICENSE)
 
 # QlikView Language Definition for UltraEdit
 
