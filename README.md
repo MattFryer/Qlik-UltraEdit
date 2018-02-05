@@ -1,3 +1,4 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)]()
 [![GitHub version](https://img.shields.io/github/release/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/MattFryer/Qlik-UltraEdit/total.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
@@ -7,7 +8,7 @@
 
 # Qlik Language Definition for UltraEdit
 
-**Note: Due to a lack of end user interest, this project no longer being updated. Should you wish to provide updates, pull requests will still be accepted.**
+**Note: Due to a lack of end user interest, this project no longer being maintained. Should you wish to provide updates, pull requests will still be reviewed and accepted.**
 
 The Qlik Custom Language Definition for UltraEdit gives basic syntax highlighting and auto-completion when working with QlikView and Qlik Sense script files in UltraEdit.
 
