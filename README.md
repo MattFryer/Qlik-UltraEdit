@@ -1,4 +1,4 @@
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)]()
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/MattFryer/Qlik-UltraEdit)
 [![GitHub version](https://img.shields.io/github/release/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
 [![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
 [![GitHub download](https://img.shields.io/github/downloads/MattFryer/Qlik-UltraEdit/total.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
