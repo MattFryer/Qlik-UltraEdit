@@ -7,6 +7,8 @@
 
 # QlikView Language Definition for UltraEdit
 
+**Note: Due to a lack of end user interest, this project no longer being updated.**
+
 The QlikView Custom Language Definition for UltraEdit gives basic syntax highlighting and auto-completion when working with QlikView script files in UltraEdit.
 
 The syntax highlighting that is provided is limited to the capabilities of UltraEdit Wordfiles and themes, and is an approximation of what you would get in QlikView's Edit Script dialog. It currently supports the following features:
