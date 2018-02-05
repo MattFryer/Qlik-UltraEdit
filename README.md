@@ -5,13 +5,13 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/issues)
 [![GitHub license](https://img.shields.io/github/license/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/blob/master/LICENSE)
 
-# QlikView Language Definition for UltraEdit
+# Qlik Language Definition for UltraEdit
 
 **Note: Due to a lack of end user interest, this project no longer being updated. Should you wish to provide updates, pull requests will still be accepted.**
 
-The QlikView Custom Language Definition for UltraEdit gives basic syntax highlighting and auto-completion when working with QlikView script files in UltraEdit.
+The Qlik Custom Language Definition for UltraEdit gives basic syntax highlighting and auto-completion when working with QlikView and Qlik Sense script files in UltraEdit.
 
-The syntax highlighting that is provided is limited to the capabilities of UltraEdit Wordfiles and themes, and is an approximation of what you would get in QlikView's Edit Script dialog. It currently supports the following features:
+The syntax highlighting that is provided is limited to the capabilities of UltraEdit Wordfiles and themes, and is an approximation of what you would get in Qlik's Edit Script dialogs. It currently supports the following features:
 
 * Highlighting of all current (v11.20) functions
 * Highlighting of all current (v11.20) keywords and statements
@@ -20,7 +20,7 @@ The syntax highlighting that is provided is limited to the capabilities of Ultra
 * LOAD statements, QUALIFY statements, STORE statements and subroutines shown in the UltraEdit function list
 * Script templates for commonly used commands and code snippets
 
-If you find any keywords or functions missing then please let me know by logging an issue and I'll add them to the next release. Support may also be added for subroutines within QlikView code libraries. If you'd like me to add support for your library, again please contact me.
+If you find any keywords or functions missing then please let me know by logging an issue and I'll add them to the next release. Support may also be added for subroutines within Qlik code libraries. If you'd like me to add support for your library, again please contact me.
 
 
 ##Installation
@@ -71,4 +71,4 @@ A series of templates have been included which allow you to add commonly used co
 
 ## Disclaimer
 
-This Wordfile is provided free of charge, as is, with no warranties or guarantees. Neither Datoniq Limited or QlikViewAddict.com (including any of it's contributors) accept any liability for problems or loss resulting from it's use. 
+This Wordfile is provided free of charge, as is, with no warranties or guarantees. Neither Datoniq Limited or QlikViewAddict.com (including any of it's contributors) accept any liability for problems or loss resulting from it's use. Qlik is a registered trademark of QlikTech International AB.
