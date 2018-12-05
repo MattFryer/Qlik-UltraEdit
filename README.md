@@ -1,10 +1,10 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://github.com/MattFryer/Qlik-UltraEdit)
-[![GitHub version](https://img.shields.io/github/release/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
-[![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
-[![GitHub download](https://img.shields.io/github/downloads/MattFryer/Qlik-UltraEdit/total.svg)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
-[![GitHub stars](https://img.shields.io/github/stars/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/stargazers)
-[![GitHub issues](https://img.shields.io/github/issues-raw/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/issues)
-[![GitHub license](https://img.shields.io/github/license/MattFryer/Qlik-UltraEdit.svg)](https://github.com/MattFryer/Qlik-UltraEdit/blob/master/LICENSE)
+[![GitHub version](https://img.shields.io/github/release/MattFryer/Qlik-UltraEdit.svg?logo=github&logoColor=ffffff)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
+[![GitHub Release Date](https://img.shields.io/github/release-date/MattFryer/Qlik-UltraEdit.svg?logo=github&logoColor=ffffff)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
+[![GitHub download](https://img.shields.io/github/downloads/MattFryer/Qlik-UltraEdit/total.svg?logo=github&logoColor=ffffff)](https://github.com/MattFryer/Qlik-UltraEdit/releases/latest)
+[![GitHub stars](https://img.shields.io/github/stars/MattFryer/Qlik-UltraEdit.svg?logo=github&logoColor=ffffff)](https://github.com/MattFryer/Qlik-UltraEdit/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues-raw/MattFryer/Qlik-UltraEdit.svg?logo=github&logoColor=ffffff)](https://github.com/MattFryer/Qlik-UltraEdit/issues)
+[![GitHub license](https://img.shields.io/github/license/MattFryer/Qlik-UltraEdit.svg?logo=gnu&logoColor=ffffff)](https://github.com/MattFryer/Qlik-UltraEdit/blob/master/LICENSE)
 
 # Qlik Language Definition for UltraEdit
 
